@@ -1,0 +1,9 @@
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\bin\Debug\Atomatic_Water_Supply_System.exe.config
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\bin\Debug\Atomatic_Water_Supply_System.exe
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\bin\Debug\Atomatic_Water_Supply_System.pdb
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.csprojResolveAssemblyReference.cache
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.MainForm.resources
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.Properties.Resources.resources
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.csproj.GenerateResource.Cache
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.exe
+F:\Projects\C#\自动供水系统控制软件\Atomatic_Water_Supply_System\Atomatic_Water_Supply_System\obj\Debug\Atomatic_Water_Supply_System.pdb
