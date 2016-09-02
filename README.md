@@ -41,7 +41,7 @@
 ![控制软件-1](http://images0.cnblogs.com/blog/787347/201507/312041579709422.png)
 
 ## 详细文档
-本文档并未给出完整的系统设计以及实现文档，具体请参见本人的博客 [基于 Arduino 微控制器的自动供水系统](http://blog.chriscabin.com/others/projects/1358.html) 了解更多细节。
+本文档并未给出完整的系统设计以及实现细节，具体请参见本人的博客 [基于 Arduino 微控制器的自动供水系统](http://blog.chriscabin.com/others/projects/1358.html) 了解更多内容。
 
 ## 许可协议
 [MIT LICENSE](./License.md) @Christopher L.
